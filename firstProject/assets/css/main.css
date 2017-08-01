@@ -1,6 +1,10 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
+font-family: source-han-sans-traditional, sans-serif;
+font-style: normal;
+font-weight: 300;
+
 /*
 	Stellar by HTML5 UP
 	html5up.net | @ajlkn

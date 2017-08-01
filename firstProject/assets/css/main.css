@@ -2,6 +2,7 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
 #header h1 {
+	font-family: "source-han-sans-traditional";
 }
 
 /*
@@ -19,6 +20,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		font-family: "source-han-sans-traditional";
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {

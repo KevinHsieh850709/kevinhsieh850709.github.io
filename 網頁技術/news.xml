@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="news.xsl"?>
+<catalog>
+	<cd>
+		<標題>Empire Burlesque</標題>
+		<artist>Bob Dylan</artist>
+		<country>USA</country>
+		<company>Columbia</company>
+		<price>10.90</price>
+		<year>1985</year>
+	</cd>
+	<cd>
+		<標題>中文測試</標題>
+		<artist>Bonnie Tyler</artist>
+		<country>UK</country>
+		<company>CBS Records</company>
+		<price>9.90</price>
+		<year>1988</year>
+	</cd>
+	<cd>
+		<標題>Greatest Hits</標題>
+		<artist>Dolly Parton</artist>
+		<country>USA</country>
+		<company>RCA</company>
+		<price>9.90</price>
+		<year>1982</year>
+	</cd>
+</catalog>

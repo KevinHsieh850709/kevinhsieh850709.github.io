@@ -1,0 +1,124 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+table {
+		margin: auto;
+		border-collapse: collapse;
+	}
+	th {
+		border: 1px solid white;
+	}
+	.A {
+		border-bottom: solid red ;
+		width: 200px;
+		height: 50px;
+	}
+	.B {
+		border-top: solid red;
+		border-right: solid red;
+		width: 200px;
+		height: 50px;
+	}
+	.C {
+		border-right: solid black;
+		border-bottom: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.D {
+		border-top: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.E {
+		border-bottom: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.F {
+		border-top: solid black;
+		border-right: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.G {
+		border-top: solid red;
+		width: 200px;
+		height: 50px;
+	}
+	.H {
+		border-left: solid red;
+		border-bottom: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.I {
+		border-top: solid red;
+		border-right: solid black;
+		border-left: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.J {
+		border-right: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.K {
+		border-right: solid red;
+		width: 200px;
+		height: 50px;
+	}
+	.L {
+		border-right: solid red;
+		border-bottom: solid red;
+		border-left: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.M {
+		border-top: solid red;
+		border-left: solid red;
+		width: 200px;
+		height: 50px;
+	}
+	.N {
+		border-left: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.O {
+		border-bottom: solid red;
+		border-left: solid black;
+		width: 200px;
+		height: 50px;
+	}
+	.P {
+		border-left: solid red;
+		width: 200px;
+		height: 50px;
+	}
+	.Q {
+		border-top: solid red;
+		width: 200px;
+		height: 50px;
+	}
+	.R {
+		border-bottom: solid red;
+		border-right: solid red;
+		width: 200px;
+		height: 50px;
+	}
